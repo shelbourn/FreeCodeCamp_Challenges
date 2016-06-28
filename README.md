@@ -7,5 +7,11 @@
 ## #100DaysOfCode Challenge Log
 
 ### Day 1
-* Completed challenges: "Say Hello to HTML Elements" through "Add Alt Text to an Image for Accessibility"
+* Completed Challenges: "Say Hello to HTML Elements" through "Add Alt Text to an Image for Accessibility"
 * Hours Completed: 2
+
+### Day 2
+* Completed Challenges: "Create a Bulleted Unordered List" through "Use Abbreviated Hex Code"
+* Uploaded 'CatPhotoApp' to Github
+* Uploaded 'Clockwise Notation' HTML note file to Github
+* Hours Completed: 4
