@@ -15,3 +15,11 @@
 * Uploaded 'CatPhotoApp' to Github
 * Uploaded 'Clockwise Notation' HTML note file to Github
 * Hours Completed: 4
+
+### Day 3
+* Completed Challenges: "Use RGB values to Color Elements" through "Line up Form Elements Responsively with Bootstrap"
+* Modified 'CatPhotoApp' through FreeCodeCamp.com to include:
+  * Responsive design using Bootstrap
+  * Add icons using Font Awesome
+  * Code cleansing
+* Hours completed: 1.5
