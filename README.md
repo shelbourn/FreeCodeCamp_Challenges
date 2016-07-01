@@ -22,4 +22,16 @@
   * Responsive design using Bootstrap
   * Add icons using Font Awesome
   * Code cleansing
-* Hours completed: 1.5
+* Hours Completed: 1.5
+
+### Day 4
+* Completed Challenges: "Build a Bootstrap Headline" through "Use jQuery to Modify the Entire Page"
+* Challenges in Progress: "Build a Tribute Page"
+* Updated README.md
+* Hours Completed: 4.5
+
+### Day 5
+* Complete Challenge: "Build a Tribute Page"
+* I had a lot of fun with this challenge. It was nice to build something from the ground up without following a play-by-play tutorial. So far I am very happy with FreeCodeCamp.com
+* Uploaded: "A Tribute to David Attenborough" HTML and CSS files
+* Hours Completed: 7
