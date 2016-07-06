@@ -6,17 +6,17 @@
 
 ## #100DaysOfCode Challenge Log
 
-### Day 1 (07/03/2016)
+### Day 1 (06/26/2016)
 * Completed Challenges: "Say Hello to HTML Elements" through "Add Alt Text to an Image for Accessibility"
 * Hours Completed: 2
 
-### Day 2 (07/03/2016)
+### Day 2 (06/27/2016)
 * Completed Challenges: "Create a Bulleted Unordered List" through "Use Abbreviated Hex Code"
 * Uploaded 'CatPhotoApp' to Github
 * Uploaded 'Clockwise Notation' HTML note file to Github
 * Hours Completed: 4
 
-### Day 3 (07/03/2016)
+### Day 3 (06/28/2016)
 * Completed Challenges: "Use RGB values to Color Elements" through "Line up Form Elements Responsively with Bootstrap"
 * Modified 'CatPhotoApp' through FreeCodeCamp.com to include:
   * Responsive design using Bootstrap
@@ -24,34 +24,50 @@
   * Code cleansing
 * Hours Completed: 1.5
 
-### Day 4 (07/03/2016)
+### Day 4 (06/29/2016)
 * Completed Challenges: "Build a Bootstrap Headline" through "Use jQuery to Modify the Entire Page"
 * Challenges in Progress: "Build a Tribute Page"
 * Updated README.md
 * Hours Completed: 4.5
 
-### Day 5 (07/03/2016)
+### Day 5 (06/30/2016)
 * Completed Challenge: "Build a Tribute Page"
 * I had a lot of fun with this challenge. It was nice to build something from the ground up without following a play-by-play tutorial. So far I am very happy with FreeCodeCamp.com
 * Uploaded: "A Tribute to David Attenborough" HTML and CSS files
 * Hours Completed: 7
 
-### Day 6 (07/03/2016)
+### Day 6 (07/01/2016)
+* Made updates to David Attenborough tribute page
+* Began reading "You Don't Know JS: Up & Going" by Jenn Lukas
+* Hours Completed: 2
 
-
-### Day 7 (07/03/2016)
-
+### Day 7 (07/02/2016)
+* Continued updates to David Attenborough tribute page
+* Started designing the wire frames for Version 2 of the "Interview Like a Boss" website
+* Continued reading "You Don't Know JS: Up & Going"
+* Hours Completed: 3
 
 ### Day 8 (07/03/2016)
+* Further updates to David Attenborough tribute page
+* Continued working on the design of the wire frames for Version 2 of the "Interview Like a Boss" website
+* Continued reading "You Don't Know JS: Up & Going"
+* Hours Complated: 2.5
 
+### Day 9 (07/04/2016)
+* Made updates to David Attenborough tribute page
+* Continued working on the design of the wire frames for Version 2 of the "Interview Like a Boss" website
+* Continued reading "You Don't Know JS: Up & Going"
+* Hours Completed: 1.5
 
-### Day 9 (07/03/2016)
+### Day 10 (07/05/2016)
+* Continued working on the design of the wire frames for Version 2 of the "Interview Like a Boss" website
+* Continued reading "You Don't Know JS: Up & Going"
+* Hours Completed: 3
 
-
-### Day 10 (07/03/2016)
-
-
-### Day 11 (07/03/2016)
-
+### Day 11 (07/06/2016)
+* Finished updates (for now) to the David Attenborough tribute page
+* Continued working on the design of the wire frames for Version 2 of the "Interview Like a Boss" website
+* Continued reading "You Don't Know JS: Up & Going"
+* Hours Completed: 2
 
 ### Day 12 (07/03/2016)
