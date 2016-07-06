@@ -35,3 +35,23 @@
 * I had a lot of fun with this challenge. It was nice to build something from the ground up without following a play-by-play tutorial. So far I am very happy with FreeCodeCamp.com
 * Uploaded: "A Tribute to David Attenborough" HTML and CSS files
 * Hours Completed: 7
+
+### Day 6
+
+
+### Day 7
+
+
+### Day 8
+
+
+### Day 9
+
+
+### Day 10
+
+
+### Day 11
+
+
+### Day 12
