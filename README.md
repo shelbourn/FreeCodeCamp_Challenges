@@ -65,9 +65,9 @@
 * Hours Completed: 3
 
 ### Day 11 (07/06/2016)
-* Finished updates (for now) to the David Attenborough tribute page
-* Continued working on the design of the wire frames for Version 2 of the "Interview Like a Boss" website
-* Continued reading "You Don't Know JS: Up & Going"
-* Hours Completed: 2
+* Frustration on frustration on frustration with the FCC Zipline project today.
+* Having issues trying to get my background images to scale properly, be full width, and be responsive.
+* Calling it quits because it's been a really long day and I have a major headache.
+* Hours Completed: 2.5
 
 ### Day 12 (07/03/2016)
