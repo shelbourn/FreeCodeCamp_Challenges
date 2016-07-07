@@ -1,0 +1,10 @@
+/* Removes the padding and margin from Jumbotron class and ID */
+
+#jumbotron {
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+.jumbotron {
+	margin-bottom: 0;
+}
