@@ -70,4 +70,9 @@
 * Calling it quits because it's been a really long day and I have a major headache.
 * Hours Completed: 2.5
 
-### Day 12 (07/03/2016)
+### Day 12 (07/07/2016)
+* Started actually making progress with the FCC Zipline (Design a personal portfolio page) project.
+* Became frustrated yesterday because I set out to make the site far too complicated for my skillset at this point.
+* Decided to go with a simple material design style website
+* Uploaded first version of HTML, CSS, and JS files to this repository
+* Hours Completed: 5.5
