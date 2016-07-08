@@ -8,3 +8,17 @@
 .jumbotron {
 	margin-bottom: 0;
 }
+
+/* Navbar */
+
+.navbar {
+	text-transform: uppercase;
+}
+
+/* Main Content */
+
+#profile-image {
+	border:4px solid #031324;
+	box-shadow: 2px 2px 8px #031324;
+	border-radius: 10%;
+}
