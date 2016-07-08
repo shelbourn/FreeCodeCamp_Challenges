@@ -1,16 +1,4 @@
-<!-- Built by Matthew Shelbourn ©2016 using Bootstrap v3.3.6 -->
-
-<!-- jQuery Library -->
-
-<head>
-<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
-</head>
-
-<!-- Bootstrap -->
-
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
-
-<!-- Header -->
+<!-- Header - Note to Self: MAKE COLLAPSIBLE -->
 
 <nav class="navbar navbar-inverse navbar-fixed-top" style="background-color:#123458">
 	<div class="container-fluid">
@@ -18,22 +6,25 @@
 			<a class="navbar-brand pull-left" name="home">Matthew Shelbourn</a>
 		</div>
 		<ul class="nav navbar-nav pull-right">
-			<li class="active"><a name="#home">Home</a></li>
-			<li><a href="#section1">Page 1</a></li>
-			<li><a href="#section2">Page 2</a></li>
-			<li><a href="#section3">Page 3</a></li>
+			<li><a class="active" href="#bio">Bio</a></li>
+			<li><a href="#projects">Projects</a></li>
+			<li><a href="#gallery">Gallery</a></li>
 		</ul>
 	</div>
 </nav>
 
 <!-- Body Section1 -->
 
-<div id="jumbotron" class="jumbotron" style="background-color:#336397; padding-top:50px; padding-bottom:0;">
-	<a name="section1"></a>
+<div>
+	<a name="bio"></a>
+</div>
+<div id="jumbotron" class="jumbotron" style="background-color:#336397; padding-top: 4%;">
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-xs-4">
-				<h1>Profile Pic Here</h1>
+				<h1>
+					<img id="profile-image" class="img-responsive" src="http://bit.ly/Matt_Shelbourn_Profile">
+				</h1>
 			</div>
 			<div class="col-xs-8">
 				<h1 class="pull-right">Bio Here</h1>
@@ -44,8 +35,10 @@
 
 <!-- Body Section2 -->
 
-<div id="jumbotron" class="jumbotron" style="background-color:#888; padding-top:0; padding-bottom:0;">
-	<a name="section2"></a>
+<div>
+	<a name="projects"></a>
+</div>
+<div id="jumbotron" class="jumbotron" style="background-color:#888;">
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-xs-4">
@@ -60,8 +53,10 @@
 
 <!-- Body Section3 -->
 
-<div class="jumbotron" style="background-color:#336397; padding-top:0; padding-bottom:0;">
-	<a name="section3"></a>
+<div>
+	<a name="gallery"></a>
+</div>
+<div id="jumbotron" class="jumbotron" style="background-color:#336397;">
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-xs-4">
