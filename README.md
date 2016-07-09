@@ -76,3 +76,9 @@
 * Decided to go with a simple material design style website
 * Uploaded first version of HTML, CSS, and JS files to this repository
 * Hours Completed: 5.5
+
+### Day 13 (07/08/2016)
+* Conitnued working on the FCC Zipline (Personal Portfolio) project
+* Struggling a bit with getting elements to responsively resize properly
+* Got stuck with trying to create a collapsible navbar using HTML and JS
+* I think I am going to recode this project to simplify it for now. I'll add in more complicated elements once the basic layout of the page is complete
