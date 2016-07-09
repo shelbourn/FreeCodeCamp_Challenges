@@ -22,3 +22,8 @@
 	box-shadow: 2px 2px 8px #031324;
 	border-radius: 10%;
 }
+
+.img-responsive {
+	max-width:90%;
+	max-height:auto;
+}
