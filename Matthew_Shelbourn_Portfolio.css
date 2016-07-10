@@ -9,21 +9,31 @@
 	margin-bottom: 0;
 }
 
+
 /* Navbar */
 
 .navbar {
 	text-transform: uppercase;
 }
 
+
+/* Page Background */
+
+html,
+body {
+	background: #d3d3d3;
+}
+
+
 /* Main Content */
 
 #profile-image {
-	border:4px solid #031324;
-	box-shadow: 2px 2px 8px #031324;
-	border-radius: 10%;
+	border: 4px solid #031324 !important;
+	box-shadow: 2px 2px 8px #031324 !important;
+	border-radius: 10% !important;
 }
 
 .img-responsive {
-	max-width:90%;
-	max-height:auto;
+	max-width: 90%;
+	max-height: auto;
 }
