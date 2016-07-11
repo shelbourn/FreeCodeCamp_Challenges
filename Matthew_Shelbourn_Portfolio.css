@@ -37,3 +37,34 @@ body {
 	max-width: 90%;
 	max-height: auto;
 }
+
+.divider {
+	margin: 0.5%;
+	border-color: #222222;
+}
+
+.divider2 {
+	margin: 0.5%;
+	border-color: #222222;
+}
+
+.divider3 {
+	margin:0;
+	border-color: #222222;
+}
+
+html,
+p {
+	text-transform: uppercase;
+	text-align: center;
+}
+
+html,
+a {
+	color: #222222;
+}
+
+html,
+h3 {
+	color: azure;
+}
