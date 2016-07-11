@@ -15,7 +15,8 @@ $('.navbar-collapse ul li a').click(function() {
 	*/
 
 //Animate on Hover
-$(document).ready(function(){
+
+/*$(document).ready(function(){
     $('#logo').each(function() {
         animationHover(this, 'bounce');
     });
@@ -34,3 +35,5 @@ function animationHover(element, animation){
             }, 2000);         
         });
 }
+
+End Animate on Hover */
