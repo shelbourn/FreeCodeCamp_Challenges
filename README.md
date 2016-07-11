@@ -82,3 +82,23 @@
 * Struggling a bit with getting elements to responsively resize properly
 * Got stuck with trying to create a collapsible navbar using HTML and JS
 * I think I am going to recode this project to simplify it for now. I'll add in more complicated elements once the basic layout of the page is complete
+* Hours Completed: 5
+
+### Day 14 (07/09/2016)
+* Continued working on the FCC Zipline project
+* Opted to entireley redesign the page instead of attempt to get all of the interactive functionality working that I had in the first version
+* Decided to change the pade design from full width to fixed width
+* Hours Completed: 6
+
+### Day 15 (07/10/2016)
+* Completed the full design layout with the exception of the footer
+* Added placeholder images and links
+* Struggled with getting the navbar to format properly a little bit, but ended up getting it figured out
+* Hours Completed: 12
+
+### Day 16 (07/11/2016)
+* Complete the FCC Zipline (Portfolio) project
+* Built out all page elements
+* Styled page with CSS
+* Tested Bootstrap resonsive design and moified as needed
+* Hours Completed: 10
