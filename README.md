@@ -88,7 +88,7 @@
 * Continued working on the FCC Zipline project
 * Opted to entireley redesign the page instead of attempt to get all of the interactive functionality working that I had in the first version
 * Decided to change the pade design from full width to fixed width
-* Hours Completed: 6
+* Hours Completed: 10
 
 ### Day 15 (07/10/2016)
 * Completed the full design layout with the exception of the footer
@@ -97,8 +97,11 @@
 * Hours Completed: 12
 
 ### Day 16 (07/11/2016)
-* Complete the FCC Zipline (Portfolio) project
-* Built out all page elements
-* Styled page with CSS
-* Tested Bootstrap resonsive design and moified as needed
-* Hours Completed: 10
+* Built initial files for "Matthew Shelbourn's Portfolio: Version 2"
+* Resumed FreeCodeCamp course map
+* Completed Challenges: "Comment You JavaScript Code" through "Divide one Decimal by Another with JavaScript"
+* Hours Completed: 2
+
+### Day 17 (07/12/2016)
+* Completed Challenges: "Finding a Remainder in JavaScript" through 
+* Hours Completed: 
