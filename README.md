@@ -107,5 +107,5 @@
 * Hours Completed: 2
 
 ### Day 18 (07/13/2016)
-* Completed Challenges: "Find the Length of a String" through 
-* Hours Completed: 
+* Completed Challenges: "Find the Length of a String" through "Access MultiDimensional Arrays With Indexes"
+* Hours Completed: 2.5
