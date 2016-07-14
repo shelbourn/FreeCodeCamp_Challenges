@@ -105,3 +105,7 @@
 ### Day 17 (07/12/2016)
 * Completed Challenges: "Finding a Remainder in JavaScript" through "Appending Variables to Strings"
 * Hours Completed: 2
+
+### Day 18 (07/13/2016)
+* Completed Challenges: "Find the Length of a String" through 
+* Hours Completed: 
