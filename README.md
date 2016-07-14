@@ -109,3 +109,7 @@
 ### Day 18 (07/13/2016)
 * Completed Challenges: "Find the Length of a String" through "Access MultiDimensional Arrays With Indexes"
 * Hours Completed: 2.5
+
+### Day 19 (07/14/2016)
+* Completed Challenges: "Manipulate Arrays With push()" through 
+* Hours Completed: 
