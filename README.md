@@ -111,5 +111,5 @@
 * Hours Completed: 2.5
 
 ### Day 19 (07/14/2016)
-* Completed Challenges: "Manipulate Arrays With push()" through 
-* Hours Completed: 
+* Completed Challenges: "Manipulate Arrays With push()" through "Global Scope and Functions"
+* Hours Completed:  2
