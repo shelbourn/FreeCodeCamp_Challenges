@@ -115,17 +115,17 @@
 * Hours Completed:  2
 
 ### Day 20 (07/15/2016)
-* Completed Challenges: "Manipulate Arrays With push()" through "Global Scope and Functions"
+* Worked on developing the base code for the "Interview Like a Boss" website
+* Hours Completed:  3
+
+### Day 21 (07/16/2016)
+* Worked on developing the base code for the "Interview Like a Boss" website
 * Hours Completed:  2
 
-### Day 20 (07/16/2016)
-* Completed Challenges: "Manipulate Arrays With push()" through "Global Scope and Functions"
+### Day 22 (07/17/2016)
+* Worked on developing the base code for the "Interview Like a Boss" website
 * Hours Completed:  2
 
-### Day 20 (07/17/2016)
-* Completed Challenges: "Manipulate Arrays With push()" through "Global Scope and Functions"
-* Hours Completed:  2
-
-### Day 20 (07/18/2016)
+### Day 23 (07/18/2016)
 * Completed Challenges: "Write Reusable JavaScript with Functions" through
 * Hours Completed:  2
