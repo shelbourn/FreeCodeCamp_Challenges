@@ -127,5 +127,5 @@
 * Hours Completed:  2
 
 ### Day 23 (07/18/2016)
-* Completed Challenges: "Write Reusable JavaScript with Functions" through
-* Hours Completed:  2
+* Completed Challenges: "Write Reusable JavaScript with Functions" through "Global vs Local Scope in Functions"
+* Hours Completed:  1
