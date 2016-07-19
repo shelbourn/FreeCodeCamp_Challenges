@@ -129,3 +129,7 @@
 ### Day 23 (07/18/2016)
 * Completed Challenges: "Write Reusable JavaScript with Functions" through "Global vs Local Scope in Functions"
 * Hours Completed:  1
+
+### Day 24 (07/19/2016)
+* Completed Challenges: "Return a Value from a Function with Return" through
+* Hours Completed: 
