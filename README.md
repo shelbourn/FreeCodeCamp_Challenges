@@ -133,3 +133,7 @@
 ### Day 24 (07/19/2016)
 * Completed Challenges: "Return a Value from a Function with Return" through "Golf Code"
 * Hours Completed: 2.5
+
+### Day 25 (07/20/2016)
+* Completed Challenges: "Selecting from many options with Switch Statements" through 
+* Hours Completed: 
