@@ -131,5 +131,5 @@
 * Hours Completed:  1
 
 ### Day 24 (07/19/2016)
-* Completed Challenges: "Return a Value from a Function with Return" through
-* Hours Completed: 
+* Completed Challenges: "Return a Value from a Function with Return" through "Golf Code"
+* Hours Completed: 2.5
