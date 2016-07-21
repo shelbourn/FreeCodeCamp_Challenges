@@ -135,5 +135,5 @@
 * Hours Completed: 2.5
 
 ### Day 25 (07/20/2016)
-* Completed Challenges: "Selecting from many options with Switch Statements" through 
-* Hours Completed: 
+* Completed Challenges: "Selecting from many options with Switch Statements" through "Accessing Objects Properties with Variables"
+* Hours Completed: 3
