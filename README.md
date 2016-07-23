@@ -147,3 +147,4 @@
 * Started working on my Portfolio Version 2
 * Finished the Nav Bar, Cover Section, and began building the Bio section
 * *Note: I'm finding it easier to work with Bootstrap and CSS this time around. I feel like I'm getting a better sense for how the languages work. Feels good! :)*
+* Hours Completed: 5.5
