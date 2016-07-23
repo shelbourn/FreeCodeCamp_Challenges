@@ -137,3 +137,8 @@
 ### Day 25 (07/20/2016)
 * Completed Challenges: "Selecting from many options with Switch Statements" through "Accessing Objects Properties with Variables"
 * Hours Completed: 3
+
+### Day 26 (07/21/2016)
+* Completed Challenges: "Updating Object Properties" through "Manipulating Complex Objects"
+* Hours Completed: 2
+* *Note: I am going to take a break from FCC for awhile. I'm having some trouble following the JavaScript module. I am going to go back to reading 'You Don't Know JS' and also start working my way through Code School's programs.*
