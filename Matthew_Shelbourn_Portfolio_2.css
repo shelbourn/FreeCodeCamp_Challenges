@@ -25,19 +25,19 @@ body {
 }
 
 .black-border {
-	border: 0.3em solid rgba(0,0,0,0.7);
+	border: 0.3vw solid rgba(0,0,0,0.7);
 }
 
 .logo {
   color:#fff;
   font-weight:800;
   font-size:14pt;
-  padding:50px;
+  padding:3vw;
   text-align:center;
 }
 
 .line {
-  padding-top:20px;
+  padding-top:2vw;
   white-space:no-wrap;
   overflow:hidden;
   text-align:center;
@@ -45,5 +45,18 @@ body {
 
 html,hr {
 	border: 1px solid rgba(0,0,0,0.7);
+}
+
+.fa-size {
+	font-size:5vw;
+	text-align: center;
+}
+
+#cover-bottom {
+	background-color: white;
+}
+
+#h1-cover {
+	font-size:3vw;
 }
 /* END FULL WIDTH COVER SECTION */
