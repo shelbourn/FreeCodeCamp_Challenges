@@ -142,3 +142,8 @@
 * Completed Challenges: "Updating Object Properties" through "Manipulating Complex Objects"
 * Hours Completed: 2
 * *Note: I am going to take a break from FCC for awhile. I'm having some trouble following the JavaScript module. I am going to go back to reading 'You Don't Know JS' and also start working my way through Code School's programs.*
+
+### Day 27 (07/22/2016)
+* Started working on my Portfolio Version 2
+* Finished the Nav Bar, Cover Section, and began building the Bio section
+* *I'm finding it easier to work with Bootstrap and CSS this time around. I feel like I'm getting a better sense for how the languages work. Feels good! :)*
