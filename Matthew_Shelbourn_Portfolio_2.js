@@ -16,3 +16,12 @@ $(document).ready(function() {
       });
     });
 });
+
+// Change "active class while navigating
+
+$(document).ready(function() {
+$(".nav a").on("click", function() {
+	$(".nav").find(".active").removeClass("active");
+	$(this).parent().addClass("active");
+});
+});
