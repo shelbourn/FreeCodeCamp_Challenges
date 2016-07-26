@@ -148,3 +148,30 @@
 * Finished the Nav Bar, Cover Section, and began building the Bio section
 * *Note: I'm finding it easier to work with Bootstrap and CSS this time around. I feel like I'm getting a better sense for how the languages work. Feels good! :)*
 * Hours Completed: 5.5
+
+### Day 28 (07/23/2016)
+* Continued working on my Portfolio Version 2
+* I wasn't happy with the way my cover page looked so I set out to adjust it. This opened up a can of worms because the more I tinkered with it the more I wanted to change
+* Need to keep my OCD in check :)
+* Added Javascript to change the scroll speed upon link click.
+* Hours Completed: 8
+
+### Day 29 (07/24/2016)
+* Continued working on my Portfolio Version 2
+* Struggling to figure out a way to get my landing page the way I want it.
+* My goal is to have it be a full-width and full-height cover page with a background image.
+* I can get it to be like this when viewing on a laptop or desktop, however when I begin to scale it down (emulating a mobile device) the cover page begins to shrink and move up.
+* It seems like it should be an easy fix, but I'm having trouble figuring it out.
+* Getting a little frustrated. Oh well, that's the name of the game sometimes. :)
+* Hours Completed: 4
+
+### Day 30 (07/25/2016)
+* Continued working on my Portfolio Version 2
+* Finally figured out a way to get my landing page to be a full-width and full-height responsive cover. It was such a simple fix that I can't believe it took me so long.
+* Hours Completed: 1.5
+
+### Day 31 (07/26/2016)
+* Started working on my Portfolio Version 2
+* Finished the Nav Bar, Cover Section, and began building the Bio section
+* *Note: I'm finding it easier to work with Bootstrap and CSS this time around. I feel like I'm getting a better sense for how the languages work. Feels good! :)*
+* Hours Completed: 5.5
