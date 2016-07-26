@@ -9,15 +9,14 @@ body {
 }
 
 .wide {
-	width: 100%;
-  height: 100%;
+  height: 100vh;
   height:calc(100% - 1px);
 	background:
 		linear-gradient(
 		rgba(255,255,255,0.25),
 		rgba(255,255,255,0.25)
 		),	url('https://raw.githubusercontent.com/shelbourn/FreeCodeCamp_Challenges/master/Matt_Shelbourn_Portfolio_Cover.jpg');
-  size: cover;
+  background-size: cover;
 	background-position: center;
 }
 
