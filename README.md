@@ -171,7 +171,8 @@
 * Hours Completed: 1.5
 
 ### Day 31 (07/26/2016)
-* Started working on my Portfolio Version 2
-* Finished the Nav Bar, Cover Section, and began building the Bio section
-* *Note: I'm finding it easier to work with Bootstrap and CSS this time around. I feel like I'm getting a better sense for how the languages work. Feels good! :)*
+* Continued working on my Portfolio Version 2
+* Figured out a way to have a full width & full height cover page with a floating profile image and bottom-aligned sub-section.
+* Other minor tweaks and fixes
+* Hours Completed: 3
 * Hours Completed: 5.5
