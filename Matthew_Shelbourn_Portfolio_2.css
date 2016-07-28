@@ -24,8 +24,12 @@ body {
   width:100%;
 }
 
+.profile-img {
+	width: 35vmax;
+}
+
 .black-border {
-	border: 0.3vw solid rgba(0,0,0,0.7);
+	border: 0.5vmin solid rgba(0,0,0,0.7);
 }
 
 .logo {
@@ -49,7 +53,7 @@ hr {
 }
 
 .fa-size {
-	font-size:5vw;
+	font-size:5vmax;
 	text-align: center;
 }
 
@@ -65,8 +69,8 @@ hr {
 }
 
 #h1-cover {
-	font-size:3vw;
-	padding-bottom: 3vw;
+	font-size:3vmax;
+	padding-bottom: 3vmin;
 	text-transform: uppercase;
 }
 
