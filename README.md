@@ -175,4 +175,10 @@
 * Figured out a way to have a full width & full height cover page with a floating profile image and bottom-aligned sub-section.
 * Other minor tweaks and fixes
 * Hours Completed: 3
-* Hours Completed: 5.5
+
+### Day 32 (07/27/2016)
+* Continued working on my Portfolio Version 2
+* Tweaked the sizing of elements so they scale properly (eg vmax, vmin, vh, and vw)
+* Fixed the scaling of the navbar dropdown when collapsed
+* Finished the general screen panel layout for what I want each section of my portfolio page to look like (YAY!)
+* Hours Completed: 2.5
