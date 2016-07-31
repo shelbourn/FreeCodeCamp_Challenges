@@ -1,12 +1,37 @@
-/* FULL WIDTH COVER SECTION */
+/* NAVBAR */
+
+.navbar {
+  text-transform: uppercase;
+}
+
+.navbar-brand {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 2.5vh;
+}
+
+.navbar-right {
+	text-transform: uppercase;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 2.5vh;
+}
+
+.navbar-left {
+	text-transform: uppercase;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 2.5vh;
+}
+
+/* END NAVBAR */
+
+/* MAIN CONTENT */
 
 body,html {
   height: 100%;
 }
 
-body {
+/* body {
   padding-top: 50px;
-}
+} */
 
 .wide {
 	height: 100vh;
@@ -16,7 +41,7 @@ body {
 		rgba(255,255,255,0.25),
 		rgba(255,255,255,0.25)
 		),	url('https://raw.githubusercontent.com/shelbourn/FreeCodeCamp_Challenges/master/Matt_Shelbourn_Portfolio_Cover.jpg');
-  background-size: cover;
+  	background-size: cover;
 	background-position: center;
 }
 
@@ -26,6 +51,10 @@ body {
 
 .profile-img {
 	width: 35vmax;
+}
+
+.profile-img-align {
+	padding-top: 50px;
 }
 
 .black-border {
@@ -40,11 +69,11 @@ body {
   text-align:center;
 }
 
-.line {
+/* .line {
   white-space:no-wrap;
   overflow:hidden;
   text-align:center;
-}
+} I BELIEVE THIS CODE IS UNNECESSARY */
 
 hr {
 	border: .3vw solid rgba(0,0,0,0.7);
@@ -77,19 +106,20 @@ hr {
 h1 {
 	font-family: 'Roboto Slab', serif;
 }
-/* END FULL WIDTH COVER SECTION */
-
-/* FULL WIDTH BIO SECTION */
 
 .bio-wide {
-	width:100%;
-  height:100%;
-  height:calc(100% - 1px);
-	background-color: lightgray;
-	size: cover;
+  	height:100vh;
+  	/* height:calc(100% - 1px); COMMENTING THIS OUT SO THAT I CAN HAVE THE SECTION FILL THE ENTIRE HEIGHT AND WIDTH OF THE VIEWPORT */
+	background:
+		linear-gradient(
+		rgba(255,255,255,1.0),
+		rgba(0,0,0,0.7)
+		);
+	background-size: cover;
+	background-position: center;
 }
 
-/#h1-body {
+#h1-body {
 	font-size:3vw;
 	text-transform: uppercase;
 }
@@ -102,18 +132,4 @@ h2 {
 	font-size:2.3vw;
 }
 
-.navbar {
-  text-transform: uppercase;
-}
-
-.navbar-right {
-	text-transform: uppercase;
-	font-family: 'Roboto Condensed', sans-serif;
-	font-size: 1.5vh;
-}
-
-.navbar-left {
-	text-transform: uppercase;
-	font-family: 'Roboto Condensed', sans-serif;
-	font-size: 1.5vh;
-}
+/* END MAIN CONTENT */
