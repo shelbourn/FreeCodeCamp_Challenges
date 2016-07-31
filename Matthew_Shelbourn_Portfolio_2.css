@@ -108,7 +108,7 @@ h1 {
 }
 
 .bio-wide {
-  	height:100vh;
+  	height:93vh; /* NEED THIS HEIGHT MEASUREMENT TO MAKE EVERY COVER PAGE (EXCEPT THE LANDING PAGE) TO FIT 100% WIDTH AND HEIGHT */
   	/* height:calc(100% - 1px); COMMENTING THIS OUT SO THAT I CAN HAVE THE SECTION FILL THE ENTIRE HEIGHT AND WIDTH OF THE VIEWPORT */
 	background:
 		linear-gradient(
@@ -119,17 +119,22 @@ h1 {
 	background-position: center;
 }
 
-#h1-body {
+/* #h1-body {
 	font-size:3vw;
 	text-transform: uppercase;
-}
+} REPETITIVE CODE */
 
 h2 {
 	font-family: 'Roboto Condensed', sans-serif;
 }
 
 #h2-body {
-	font-size:2.3vw;
+	font-size:2.3vh;
+}
+
+.bio-col {
+	padding-left: 6vh;
+	padding-right: 6vh;
 }
 
 /* END MAIN CONTENT */
