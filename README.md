@@ -185,6 +185,17 @@
 
 ### Day 33 (07/28/2016)
 * Continued working on my Portfolio Version 2
+* Started to build out the 'Bio' section of the page
+* I'm finding a lot easier to build the section since I worked out many of the kinks while building the cover page.
+* Hours Completed: 2
+
+### Day 34 (07/29/2016)
+* Continued working on my Portfolio Version 2
+* Continued working on the 'Bio' section of the page.
+* Hours Completed: 2
+
+### Day 35 (07/30/2016)
+* Continued working on my Portfolio Version 2
 * Tweaked the sizing of elements so they scale properly (eg vmax, vmin, vh, and vw)
 * Fixed the scaling of the navbar dropdown when collapsed
 * Finished the general screen panel layout for what I want each section of my portfolio page to look like (YAY!)
