@@ -200,3 +200,10 @@
 * Fixed the scaling of the navbar dropdown when collapsed
 * Finished the general screen panel layout for what I want each section of my portfolio page to look like (YAY!)
 * Hours Completed: 2.5
+
+### Day 35 (07/31/2016)
+* Continued working on my Portfolio Version 2
+* Tweaked the sizing of elements so they scale properly (eg vmax, vmin, vh, and vw)
+* Fixed the scaling of the navbar dropdown when collapsed
+* Finished the general screen panel layout for what I want each section of my portfolio page to look like (YAY!)
+* Hours Completed: 2.5
