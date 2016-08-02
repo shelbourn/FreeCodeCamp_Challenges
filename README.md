@@ -204,3 +204,8 @@
 * Continued working on my Portfolio Version 2
 * Begain sizing the elements in the 'Bio' section
 * Hours Completed: 1
+
+### Day 35 (08/01/2016)
+* Continued working on my Portfolio Version 2
+* Begain sizing the elements in the 'Bio' section
+* Hours Completed: 1
