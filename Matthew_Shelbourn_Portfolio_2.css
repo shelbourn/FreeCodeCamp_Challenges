@@ -129,16 +129,21 @@ h2 {
 }
 
 #h2-body {
-	font-size:2.3vh;
+	font-size:2.5vh;
 }
 
 .bio-col {
 	padding-left: 6vh;
 	padding-right: 6vh;
 }
-
+/*
 .svg-bio-size {
 	height: 15vh;
+} REMOVING SVG FOR NOW. I NEED TO WORK MORE WITH THE SVG FORMAT BEFORE I USE THEM IN CODE BECAUSE I AM HAVING SOME ISSUES WITH SCALING. */
+
+.bio-divider-img {
+	height: 15vmax;
+	width: auto;
 }
 
 /* END MAIN CONTENT */
