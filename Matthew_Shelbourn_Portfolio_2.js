@@ -25,3 +25,11 @@ $(".nav a").on("click", function() {
 	$(this).parent().addClass("active");
 });
 });
+
+// Auto navbar on click
+
+$(document).ready(function () {
+  $(".navbar-nav li a").click(function(event) {
+    $(".navbar-collapse").collapse('hide');
+  });
+});
