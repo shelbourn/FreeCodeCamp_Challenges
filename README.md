@@ -207,5 +207,7 @@
 
 ### Day 35 (08/01/2016)
 * Continued working on my Portfolio Version 2
-* Begain sizing the elements in the 'Bio' section
-* Hours Completed: 1
+* Fixed sizing of section divider image in 'Bio' section (converted from SVG to PNG)
+* I need more practice working with SVG's before I intergrate them into my code. I was able to position it okay, but I had trouble with scaling.
+* Successfully added JS code to auto collapse nav menu when scaled down to mobile size.
+* Hours Completed: 3
