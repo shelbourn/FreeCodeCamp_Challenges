@@ -148,16 +148,22 @@ h2 {
 	padding-bottom: 3vmin;
 }
 
+/* Align items within 'Bio' section vertically centered */
+
 .bio-center {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 }
 
+/* Align items within Row vertically centered */
+
 .bio-row-center {
 	display: flex;
 	align-items: center;
 }
+
+/* Disable Flex display on screen sizes 1000px wide or smaller -- Need this otherwise the Bootstrap grid system will not snap to sm-12 or xs-12 for smaller devices */
 
 @media (max-width: 1000px) {
 	.row.bio-row-center {
