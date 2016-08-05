@@ -218,5 +218,5 @@
 * Trying to improve load times because they seem a bit slow currently
 * Hours Completed: 1.5
 
-### Day 36 (08/02/2016)
+### Day 37 (08/03/2016)
 * Continued working on my Portfolio Version 2
