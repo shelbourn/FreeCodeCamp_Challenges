@@ -220,3 +220,5 @@
 
 ### Day 37 (08/03/2016)
 * Continued working on my Portfolio Version 2
+* Worked on streamlining code to improve load time.
+* Hours Completed: 1
