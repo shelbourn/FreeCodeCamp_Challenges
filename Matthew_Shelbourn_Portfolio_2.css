@@ -99,7 +99,7 @@ hr {
 
 #h1-cover {
 	font-size:3vmax;
-	padding-bottom: 3vmin;
+	padding-bottom: 7vmin;
 	text-transform: uppercase;
 }
 
@@ -133,8 +133,8 @@ h2 {
 }
 
 .bio-col {
-	padding-left: 6vh;
-	padding-right: 6vh;
+	padding-left: 6vmin;
+	padding-right: 6vmin;
 }
 /*
 .svg-bio-size {
@@ -142,13 +142,26 @@ h2 {
 } REMOVING SVG FOR NOW. I NEED TO WORK MORE WITH THE SVG FORMAT BEFORE I USE THEM IN CODE BECAUSE I AM HAVING SOME ISSUES WITH SCALING. */
 
 .bio-divider-img {
-	height: 15vmax;
+	height: 17vmax;
 	width: auto;
+	padding-top: 3vmin;
+	padding-bottom: 3vmin;
 }
 
 .bio-center {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
+}
 
+.bio-row-center {
+	display: flex;
+	align-items: center;
+}
+
+@media (max-width: 1000px) {
+	.row.bio-row-center {
+		display: block;
+	}
+}
 /* END MAIN CONTENT */
