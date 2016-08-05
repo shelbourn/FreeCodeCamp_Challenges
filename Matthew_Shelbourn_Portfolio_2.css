@@ -147,7 +147,8 @@ h2 {
 }
 
 .bio-center {
-	padding-top: 20vh;
-	padding-bottom: 25vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
 
 /* END MAIN CONTENT */
