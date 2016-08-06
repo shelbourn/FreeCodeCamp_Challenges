@@ -222,3 +222,10 @@
 * Continued working on my Portfolio Version 2
 * Worked on streamlining code to improve load time.
 * Hours Completed: 1
+
+### Day 38 (08/04/2016)
+* Continued working on my Portfolio Version 2
+* Successfully figured out a way to vertically center elements within a Bootstrap section
+* Successfully figured out a way to vertically center columns within a row in Bootstrap
+* Completed 'Bio' section with the exception of the content. Currently it has placeholder text
+* Hours Completed: 3
