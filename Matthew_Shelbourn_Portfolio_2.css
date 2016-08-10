@@ -29,12 +29,19 @@ body,html {
   height: 100%;
 }
 
+/* Remove padding (used to remove padding from Bootstrap col class) */
+
+.nopadding {
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
 /* body {
   padding-top: 50px;
 } */
 
 .wide {
-	height: 99vh;
+	height: 100vh;
   /* height:calc(100% - 1px); REMOVED TO MAKE COVER FULL VIEWPORT HEIGHT. LOST THE BOTTOM CONTAINER THOUGH. NEED TO FIX */
 	background:
 		linear-gradient(
@@ -108,7 +115,7 @@ h1 {
 }
 
 .bio-wide {
-  	height:95vh; /* NEED THIS HEIGHT MEASUREMENT TO MAKE EVERY COVER PAGE (EXCEPT THE LANDING PAGE) TO FIT 100% WIDTH AND HEIGHT */
+  	height:96vh; /* NEED THIS HEIGHT MEASUREMENT TO MAKE EVERY COVER PAGE (EXCEPT THE LANDING PAGE) TO FIT 100% WIDTH AND HEIGHT */
   	/* height:calc(100% - 1px); COMMENTING THIS OUT SO THAT I CAN HAVE THE SECTION FILL THE ENTIRE HEIGHT AND WIDTH OF THE VIEWPORT */
 	background:
 		linear-gradient(
@@ -135,7 +142,7 @@ h2 {
 .bio-col {
 	padding-left: 6vmin;
 	padding-right: 6vmin;
-}
+} 
 /*
 .svg-bio-size {
 	height: 15vh;
