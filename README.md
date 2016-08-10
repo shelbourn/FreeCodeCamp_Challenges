@@ -230,7 +230,42 @@
 * Completed 'Bio' section with the exception of the content. Currently it has placeholder text
 * Hours Completed: 3
 
-### Day 38 (08/04/2016)
+### Day 39 (08/05/2016)
+* Continued working on my Portfolio Version 2
+* Successfully figured out a way to vertically center elements within a Bootstrap section
+* Successfully figured out a way to vertically center columns within a row in Bootstrap
+* Completed 'Bio' section with the exception of the content. Currently it has placeholder text
+* Hours Completed: 3
+
+### Day 40 (08/06/2016)
+* Continued working on my Portfolio Version 2
+* Successfully figured out a way to vertically center elements within a Bootstrap section
+* Successfully figured out a way to vertically center columns within a row in Bootstrap
+* Completed 'Bio' section with the exception of the content. Currently it has placeholder text
+* Hours Completed: 3
+
+### Day 41 (08/07/2016)
+* Continued working on my Portfolio Version 2
+* Successfully figured out a way to vertically center elements within a Bootstrap section
+* Successfully figured out a way to vertically center columns within a row in Bootstrap
+* Completed 'Bio' section with the exception of the content. Currently it has placeholder text
+* Hours Completed: 3
+
+### Day 42 (08/08/2016)
+* Continued working on my Portfolio Version 2
+* Successfully figured out a way to vertically center elements within a Bootstrap section
+* Successfully figured out a way to vertically center columns within a row in Bootstrap
+* Completed 'Bio' section with the exception of the content. Currently it has placeholder text
+* Hours Completed: 3
+
+### Day 43 (08/09/2016)
+* Continued working on my Portfolio Version 2
+* Successfully figured out a way to vertically center elements within a Bootstrap section
+* Successfully figured out a way to vertically center columns within a row in Bootstrap
+* Completed 'Bio' section with the exception of the content. Currently it has placeholder text
+* Hours Completed: 3
+
+### Day 44 (08/10/2016)
 * Continued working on my Portfolio Version 2
 * Successfully figured out a way to vertically center elements within a Bootstrap section
 * Successfully figured out a way to vertically center columns within a row in Bootstrap
