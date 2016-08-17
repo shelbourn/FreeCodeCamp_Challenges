@@ -290,10 +290,9 @@
 
 ### Day 47 (08/13/2016)
 * Continued working on my Portfolio Version 2
-* Successfully figured out a way to vertically center elements within a Bootstrap section
-* Successfully figured out a way to vertically center columns within a row in Bootstrap
-* Completed 'Bio' section with the exception of the content. Currently it has placeholder text
-* Hours Completed: 3
+* Today I started to play around with Adobe XD to get a feel for it.
+* It's kind of a cool tool for designing the graphical side of a website. I could see myself using it in the future, but since it is a "Preview" (beta) build there isn't a ton of functionality yet.
+* Hours Completed: 2
 
 ### Day 48 (08/14/2016)
 * Continued working on my Portfolio Version 2
