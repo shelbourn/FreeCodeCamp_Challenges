@@ -271,10 +271,16 @@
 
 ### Day 45 (08/11/2016)
 * Continued working on my Portfolio Version 2
-* Successfully figured out a way to vertically center elements within a Bootstrap section
-* Successfully figured out a way to vertically center columns within a row in Bootstrap
-* Completed 'Bio' section with the exception of the content. Currently it has placeholder text
-* Hours Completed: 3
+* Continued to brainstorm how I would like this section to function.
+* Here are a couple of my ideas:
+  * Have thumbnail images or graphics for the main categories of my work
+    * Photography
+	* Graphic Design
+	* Web Design
+	* Programming
+  * Use "FancyBox" to make these graphics enlarge and focus into a lightbox gallery where the user could scroll through examples of my work in each category. Each image in the gallery would have a caption overlay to describe what it is and when it was completed
+  * Have the thumbnails be greyscale and then transform to full color when hovered over or clicked (using CSS or JavaScript)
+* Hours Completed: 2.5
 
 ### Day 46 (08/12/2016)
 * Continued working on my Portfolio Version 2
