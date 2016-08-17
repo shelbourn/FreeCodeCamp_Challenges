@@ -296,10 +296,9 @@
 
 ### Day 48 (08/14/2016)
 * Continued working on my Portfolio Version 2
-* Successfully figured out a way to vertically center elements within a Bootstrap section
-* Successfully figured out a way to vertically center columns within a row in Bootstrap
-* Completed 'Bio' section with the exception of the content. Currently it has placeholder text
-* Hours Completed: 3
+* Alright, today I finally started to actually code this section.
+* Using a Bootstrap layout and then I'll add the animation and JavaScript effects later (hover effects and lightbox galleries)
+* Hours Completed: 2.5
 
 ### Day 49 (08/15/2016)
 * Continued working on my Portfolio Version 2
