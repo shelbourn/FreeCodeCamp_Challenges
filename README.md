@@ -260,7 +260,7 @@
 * Completed the visual (UX/UI) layout in Photoshop
 * Began brainstorming how I want this section to function once live.
 * I know that I want this section to be somewhat interactive because it is the meat of my portfolio page.
-* The Google search research commenses :)
+* The Google search research commences :)
 * Hours Completed: 1
 
 ### Day 44 (08/10/2016)
