@@ -310,4 +310,5 @@
 * Continued working on my Portfolio Version 2
 * Continued coding the 'Projects' or 'My Work' section (still haven't concluded on a name for this section).
 * Nearly done with the basic programming framework for this section. I should complete this by tomorrow.
+* Note; DAY 50!!! YAY!!! Halfway done with the #100DaysofCode Challenge. I'm enjoying it thoroughly and have learned a lot already.
 * Hours Completed: 2.5
