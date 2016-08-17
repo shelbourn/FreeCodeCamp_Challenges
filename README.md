@@ -265,10 +265,9 @@
 
 ### Day 44 (08/10/2016)
 * Continued working on my Portfolio Version 2
-* Successfully figured out a way to vertically center elements within a Bootstrap section
-* Successfully figured out a way to vertically center columns within a row in Bootstrap
-* Completed 'Bio' section with the exception of the content. Currently it has placeholder text
-* Hours Completed: 3
+* Continued to research examples to get inspiration for the functionality of this section.
+* I have determined that I would like to add a hover effect to the project thumbnails in this section. Whether I do this with JavaScript or CSS I have yet to figure out.
+* Hours Completed: 2
 
 ### Day 45 (08/11/2016)
 * Continued working on my Portfolio Version 2
