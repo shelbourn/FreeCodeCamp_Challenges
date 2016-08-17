@@ -225,10 +225,9 @@
 
 ### Day 38 (08/04/2016)
 * Continued working on my Portfolio Version 2
-* Successfully figured out a way to vertically center elements within a Bootstrap section
-* Successfully figured out a way to vertically center columns within a row in Bootstrap
-* Completed 'Bio' section with the exception of the content. Currently it has placeholder text
-* Hours Completed: 3
+* Started designing the layout for the 'Projects' or 'My Work' section of the page
+* Note: Got invited to test the beta of Adobe XD (Experience Design) today and want to start playing around with it to see if it is a good way to do the UX/UI side of web design.
+* Hours Completed: 2
 
 ### Day 39 (08/05/2016)
 * Continued working on my Portfolio Version 2
