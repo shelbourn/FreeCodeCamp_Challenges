@@ -312,3 +312,9 @@
 * Nearly done with the basic programming framework for this section. I should complete this by tomorrow.
 * Note; DAY 50!!! YAY!!! Halfway done with the #100DaysofCode Challenge. I'm enjoying it thoroughly and have learned a lot already.
 * Hours Completed: 2.5
+
+### Day 51 (08/17/2016)
+* Continued working on my Portfolio Version 2
+* Continued coding the 'Projects' or 'My Work' section (still haven't concluded on a name for this section).
+* Now that I have the basic framework for this section programmed, I have started implementing the CSS and JavaScript features that I would like. I can already tell that I am going to run into issues with this, namely the JavaScript aspects since I haven't had too much JS experience yet.
+* Hours Completed: 3
