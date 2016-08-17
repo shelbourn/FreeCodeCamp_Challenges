@@ -257,10 +257,11 @@
 
 ### Day 43 (08/09/2016)
 * Continued working on my Portfolio Version 2
-* Successfully figured out a way to vertically center elements within a Bootstrap section
-* Successfully figured out a way to vertically center columns within a row in Bootstrap
-* Completed 'Bio' section with the exception of the content. Currently it has placeholder text
-* Hours Completed: 3
+* Completed the visual (UX/UI) layout in Photoshop
+* Began brainstorming how I want this section to function once live.
+* I know that I want this section to be somewhat interactive because it is the meat of my portfolio page.
+* The Google search research commenses :)
+* Hours Completed: 1
 
 ### Day 44 (08/10/2016)
 * Continued working on my Portfolio Version 2
