@@ -284,10 +284,9 @@
 
 ### Day 46 (08/12/2016)
 * Continued working on my Portfolio Version 2
-* Successfully figured out a way to vertically center elements within a Bootstrap section
-* Successfully figured out a way to vertically center columns within a row in Bootstrap
-* Completed 'Bio' section with the exception of the content. Currently it has placeholder text
-* Hours Completed: 3
+* Continued to research examples to get inspiration for the functionality of this section.
+* Continued to search for examples of how to code the functions I would like.
+* Hours Completed: 2
 
 ### Day 47 (08/13/2016)
 * Continued working on my Portfolio Version 2
