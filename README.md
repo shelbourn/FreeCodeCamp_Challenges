@@ -318,3 +318,8 @@
 * Continued coding the 'Projects' or 'My Work' section (still haven't concluded on a name for this section).
 * Now that I have the basic framework for this section programmed, I have started implementing the CSS and JavaScript features that I would like. I can already tell that I am going to run into issues with this, namely the JavaScript aspects since I haven't had too much JS experience yet.
 * Hours Completed: 3
+
+### Day 52 (08/18/2016)
+* Continued working on my Portfolio Version 2
+* Continued coding the 'Projects' or 'My Work' section (still haven't concluded on a name for this section).
+* Hours Completed: 1
