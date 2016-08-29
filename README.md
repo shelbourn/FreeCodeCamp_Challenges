@@ -364,12 +364,12 @@
 * Continued coding the 'Projects' or 'My Work' section (still haven't concluded on a name for this section).
 * Hours Completed: 1
 
-### Day 60 (08/26/2016)
+### Day 60 (08/27/2016)
 * Continued working on my Portfolio Version 2
 * Continued coding the 'Projects' or 'My Work' section (still haven't concluded on a name for this section).
 * Hours Completed: 1
 
-### Day 60 (08/26/2016)
+### Day 60 (08/28/2016)
 * Continued working on my Portfolio Version 2
 * Continued coding the 'Projects' or 'My Work' section (still haven't concluded on a name for this section).
 * Hours Completed: 1
