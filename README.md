@@ -403,3 +403,18 @@
 * Continued working on my Portfolio Version 2
 * Continued coding the 'Projects' or 'My Work' section (still haven't concluded on a name for this section).
 * Hours Completed: 1
+
+### Day 66 (09/04/2016)
+* Continued working on my Portfolio Version 2
+* Continued coding the 'Projects' or 'My Work' section (still haven't concluded on a name for this section).
+* Hours Completed: 1
+
+### Day 67 (09/05/2016)
+* Continued working on my Portfolio Version 2
+* Continued coding the 'Projects' or 'My Work' section (still haven't concluded on a name for this section).
+* Hours Completed: 1
+
+### Day 68 (09/06/2016)
+* Continued working on my Portfolio Version 2
+* Continued coding the 'Projects' or 'My Work' section (still haven't concluded on a name for this section).
+* Hours Completed: 1
